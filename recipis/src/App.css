@@ -1,0 +1,27 @@
+
+.jumbotron{
+  height: 200px;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 55px;
+  background-color: red;
+  color: white;
+
+}
+.bb{
+  display: flex;
+  flex-direction: row;
+  margin: 100px;
+}
+body{
+  background-image: url(pexels-pixabay-315755.jpg);
+  background-color:black ;
+  align-items: center;
+  margin: auto;
+}
+.mm{
+  align-self: center;
+  margin: auto;
+
+
+}
